@@ -1,0 +1,2 @@
+PYNQ supports the AXI DMA IP with the PYNQ DMA class. DMA can be used for high performance transfers between PS DRAM and the PL.
+![zynq_block_diagram](https://user-images.githubusercontent.com/93732046/205185078-a945a7a9-62cc-4ac1-af77-e4816fcf70f6.jpg)
